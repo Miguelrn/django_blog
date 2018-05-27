@@ -25,7 +25,7 @@ SECRET_KEY = '8h(k*p9y8dt#3f7q=@0p0#btv0(8*rt@8m0b)j%-cit2m^9e8h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pomer.pythonanywhere.com',]
 
 
 # Application definition
